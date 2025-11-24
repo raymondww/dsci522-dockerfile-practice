@@ -1,0 +1,9 @@
+name: dsci_522_lab2
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4.5.0
+  - conda-lock=3.0.4
+  - pandas=2.3.3
+  - python=3.11
+  - numpy=2.3.5
